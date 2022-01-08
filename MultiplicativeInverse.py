@@ -36,7 +36,7 @@ def get_arguments():
 
 
 	if int(options.a) < 0 or int(options.b) < 0:
-		print("[-] Positive Integer expected")
+		print("[-] Positive Integers expected")
 		sys.exit(0)
 
 
